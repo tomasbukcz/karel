@@ -1,2 +1,3 @@
 Git works almost as expected...
 Change number 1
+Change number 2
